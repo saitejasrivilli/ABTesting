@@ -16,10 +16,7 @@ This project analyzes an A/B test for an e-commerce company to determine whether
 ### 1️⃣ Conversion Rate Comparison  
 ![Conversion Rate](conversion_rate_comparison.jpg)  
 
-### 2️⃣ Conversion Distribution  
-![Conversion Distribution](conversion_distribution.jpg)  
-
-### 3️⃣ A/B Test Group Counts  
+### 2️⃣  A/B Test Group Counts  
 ![A/B Group Comparison](ab_group_comparison.jpg)  
 
 ## 📈 Key Findings  
