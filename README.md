@@ -11,6 +11,16 @@ This project analyzes an A/B test for an e-commerce company to determine whether
 - **T-Test** to compare the means of conversion rates.  
 - **Chi-Square Test** to compare conversion proportions.  
 - **Seaborn & Matplotlib** for visualization.  
+## 📊 Visualizations  
+
+### 1️⃣ Conversion Rate Comparison  
+![Conversion Rate](conversion_rate_comparison.jpg)  
+
+### 2️⃣ Conversion Distribution  
+![Conversion Distribution](conversion_distribution.jpg)  
+
+### 3️⃣ A/B Test Group Counts  
+![A/B Group Comparison](ab_group_comparison.jpg)  
 
 ## 📈 Key Findings  
 - **T-Test P-value:** 0.XX (> 0.05) → No significant difference.  
