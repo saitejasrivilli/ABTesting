@@ -22,7 +22,7 @@ This project analyzes an A/B test for an e-commerce company to determine whether
 
 ## 📜 Notebook  
 You can view the full Jupyter Notebook in this repository:  
-[🔗 Click Here](./ab_testing_analysis.ipynb)  
+[🔗 Click Here](./AB_Testing.ipynb)  
 
 ## 💡 Technologies Used  
 ✅ Python (`pandas`, `scipy.stats`, `seaborn`, `matplotlib`)  
