@@ -1,2 +1,3 @@
 # ABTesting
-/B Testing analysis using T-Test and Chi-Square Test to evaluate e-commerce conversion rates.
+A/B Testing analysis using T-Test and Chi-Square Test to evaluate e-commerce conversion rates.
+For this project, we will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
