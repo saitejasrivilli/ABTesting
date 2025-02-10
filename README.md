@@ -13,6 +13,20 @@ This project analyzes an A/B test for an e-commerce company to determine whether
 - **Seaborn & Matplotlib** for visualization.  
 ## 📊 Visualizations  
 
+## 📊 Dataset Description  
+
+This dataset contains user interaction data from an **A/B test conducted by an e-commerce company**.  
+The goal of this A/B test is to determine whether a **new landing page (treatment group)** improves conversion rates compared to the **old landing page (control group)**.  
+
+### **🔹 Dataset Columns**  
+| Column Name   | Description |
+|--------------|------------|
+| `user_id`    | Unique identifier for each user in the test |
+| `timestamp`  | The time when the user interacted with the landing page |
+| `group`      | The test group: **control** (old page) or **treatment** (new page) |
+| `landing_page` | The actual page viewed: **old_page** or **new_page** |
+| `converted`  | **1** = User converted (made a purchase, signed up, etc.), **0** = User did not convert |
+
 ### 1️⃣ Conversion Rate Comparison  
 ![Conversion Rate](conversion_rate_comparison.jpg)  
 
