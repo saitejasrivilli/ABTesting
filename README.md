@@ -45,6 +45,8 @@ The goal of this A/B test is to determine whether a **new landing page (treatmen
 You can view the full Jupyter Notebook in this repository:  
 [🔗 Click Here](./AB_Testing.ipynb)  
 
+![Diagram](diagram.png)
+
 ## 💡 Technologies Used  
 ✅ Python (`pandas`, `scipy.stats`, `seaborn`, `matplotlib`)  
 ✅ Jupyter Notebook  
